@@ -1,0 +1,8 @@
+hr\algebra\model\Movie.class
+hr\algebra\dal\sql\SqlRepository.class
+hr\algebra\model\Actor.class
+hr\algebra\model\User.class
+hr\algebra\dal\Repository.class
+hr\algebra\model\Director.class
+hr\algebra\dal\RepositoryFactory.class
+hr\algebra\dal\sql\DataSourceSingleton.class
